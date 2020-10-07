@@ -1,0 +1,22 @@
+IDOC Number: 0000001223935406
+
+Vendor # 3000032612
+TRIBUNE PUBLISHING COMPANY LLC
+29846 NETWORK PL
+CHICAGO IL 606731298
+
+
+Total Amount: 113.78 USD
+
+------------------------------------------------------------------------------------------------------------------
+Document    Invoice         P/O             Invoice            Gross         Discount         WHT           Net    
+Number	    Number	    Number          Date               Amount	     Amount           Amount        Amount 
+------------------------------------------------------------------------------------------------------------------
+Paying Agent for WALT DISNEY WORLD - DIVISION
+
+5103809930  451640          N/A             20190815               65.43          0.00          0.00         65.43
+4505546847
+5103809931  451650          N/A             20190815               48.35          0.00          0.00         48.35
+4505546878
+
+                                  --End of Report--

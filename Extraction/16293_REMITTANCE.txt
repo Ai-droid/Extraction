@@ -1,0 +1,20 @@
+IDOC Number: 0000001223935407
+
+Vendor # 3000032612
+TRIBUNE PUBLISHING COMPANY LLC
+29846 NETWORK PL
+CHICAGO IL 606731298
+
+
+Total Amount: 5.36 USD
+
+------------------------------------------------------------------------------------------------------------------
+Document    Invoice         P/O             Invoice            Gross         Discount         WHT           Net    
+Number	    Number	    Number          Date               Amount	     Amount           Amount        Amount 
+------------------------------------------------------------------------------------------------------------------
+Paying Agent for DISNEY VACATION CLUB MANAGEMENT, LL
+
+5101150187  438698          N/A             20190808                5.36          0.00          0.00          5.36
+4505557180
+
+                                  --End of Report--

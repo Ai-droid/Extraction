@@ -1,0 +1,13 @@
+F:\dotnet\Extraction\Extraction\bin\Debug\netcoreapp3.1\Extraction.exe
+F:\dotnet\Extraction\Extraction\bin\Debug\netcoreapp3.1\Extraction.deps.json
+F:\dotnet\Extraction\Extraction\bin\Debug\netcoreapp3.1\Extraction.runtimeconfig.json
+F:\dotnet\Extraction\Extraction\bin\Debug\netcoreapp3.1\Extraction.runtimeconfig.dev.json
+F:\dotnet\Extraction\Extraction\bin\Debug\netcoreapp3.1\Extraction.dll
+F:\dotnet\Extraction\Extraction\bin\Debug\netcoreapp3.1\Extraction.pdb
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.csprojAssemblyReference.cache
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.AssemblyInfoInputs.cache
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.AssemblyInfo.cs
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.csproj.CoreCompileInputs.cache
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.dll
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.pdb
+F:\dotnet\Extraction\Extraction\obj\Debug\netcoreapp3.1\Extraction.genruntimeconfig.cache
